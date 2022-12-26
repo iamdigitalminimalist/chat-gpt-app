@@ -1,6 +1,5 @@
 {
   "name": "server",
-  "author": "Or Druker",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -8,7 +7,7 @@
     "server": "nodemon server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Or Druker",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
